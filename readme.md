@@ -5,3 +5,22 @@
 # 웹접근성
 
  - 웹접근성은 인적, 환경적 요인에  제약 없는 웹 정보 접근이 목적이다.
+
+
+
+
+
+
+<!DOCTYPE html>
+<!-- html 주석 -->
+
+<html>
+	<head>
+		<meta charset="urf-8">
+		<title>HTML5 기본구조</title>
+	</head>	
+	<body>
+		1. HTML은 콘텐츠의 구조를 정의하는 마크업 언어<br>
+		2. 브라우저에서 사용자에게 실제 보여지는 부분
+	</body>
+</html>
