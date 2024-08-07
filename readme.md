@@ -6,9 +6,9 @@
 
  - 웹접근성은 인적, 환경적 요인에  제약 없는 웹 정보 접근이 목적이다.
 
+# HTML의 정의
 
-
-
+ - HTML(Hyper Text Markup Language)은 가장 단순한 형태의 웹 언어이다.
 
 
 <!DOCTYPE html>
@@ -24,3 +24,5 @@
 		2. 브라우저에서 사용자에게 실제 보여지는 부분
 	</body>
 </html>
+
+
