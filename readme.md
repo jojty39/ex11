@@ -10,9 +10,13 @@
 
  - HTML(Hyper Text Markup Language)은 가장 단순한 형태의 웹 언어이다.
 
+# HTML  문서 구조
+
+ - HTML 문서가 갖추어야 할 기본적인 태그는 다음과 같이 <HTML>, <HEAD>, <BODY>다.
+
+
 
 <!DOCTYPE html>
-<!-- html 주석 -->
 
 <html>
 	<head>
